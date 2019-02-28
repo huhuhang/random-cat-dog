@@ -9,6 +9,7 @@
 - 随机返回一张狗狗的图片
 - `HTTP GET: https://random-cat-dog.herokuapp.com/dog`
 
+---
 
 特别感谢：[DOG CEO](https://dog.ceo/) 和 [TheCatAPI](https://thecatapi.com/)
 
