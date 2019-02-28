@@ -1,0 +1,7 @@
+{
+  "name": "random-cat-dog",
+  "description": "Show a random cat or dog pictures",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/random-cat-dog.git",
+  "keywords": ["python", "flask" ]
+}
