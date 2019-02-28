@@ -37,4 +37,6 @@ URL: https://random-cat-dog.herokuapp.com/dog
 }
 ```
 
+特别感谢：[DOG CEO](https://dog.ceo/) 和 [TheCatAPI](https://thecatapi.com/)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
