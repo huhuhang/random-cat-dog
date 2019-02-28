@@ -12,6 +12,4 @@
 - `HTTP GET: https://random-cat-dog.herokuapp.com/dog`
 
 
-Thanks to [DOG CEO](https://dog.ceo/) and [TheCatAPI](https://thecatapi.com/)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+©️ [DOG CEO](https://dog.ceo/) and [TheCatAPI](https://thecatapi.com/)
